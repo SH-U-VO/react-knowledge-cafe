@@ -1,48 +1,53 @@
 [
-    {
-      "id": 1,
-      "cover": "https://picsum.photos/id/10/500/400",
-      "author": "Jane Doe",
-      "author_img": "https://picsum.photos/id/237/200/200",
-      "posted_date": "2025-03-20",
-      "reading_time": 5,
-      "hashtags": ["#technology", "#innovation", "#future"]
-    },
-    {
-      "id": 2,
-      "cover": "https://picsum.photos/id/20/500/400",
-      "author": "John Smith",
-      "author_img": "https://picsum.photos/id/337/200/200",
-      "posted_date": "2025-03-18",
-      "reading_time": 8,
-      "hashtags": ["#business", "#strategy", "#growth"]
-    },
-    {
-      "id": 3,
-      "cover": "https://picsum.photos/id/30/500/400",
-      "author": "Emily Johnson",
-      "author_img": "https://picsum.photos/id/437/200/200",
-      "posted_date": "2025-03-15",
-      "reading_time": 6,
-      "hashtags": ["#health", "#wellness", "#lifestyle"]
-    },
-    {
-      "id": 4,
-      "cover": "https://picsum.photos/id/40/500/400",
-      "author": "Michael Brown",
-      "author_img": "https://picsum.photos/id/537/200/200",
-      "posted_date": "2025-03-10",
-      "reading_time": 10,
-      "hashtags": ["#science", "#discovery", "#education"]
-    },
-    {
-      "id": 5,
-      "cover": "https://picsum.photos/id/50/500/400",
-      "author": "Sophia Davis",
-      "author_img": "https://picsum.photos/id/637/200/200",
-      "posted_date": "2025-03-05",
-      "reading_time": 7,
-      "hashtags": ["#art", "#creativity", "#design"]
-    }
-  ]
+  {
+    "id": 1,
+    "title": "The Future of Technology",
+    "cover": "https://picsum.photos/id/10/500/400",
+    "author": "Jane Doe",
+    "author_img": "https://picsum.photos/id/237/200/200",
+    "posted_date": "2025-03-20",
+    "reading_time": 5,
+    "hashtags": ["#technology", "#innovation", "#future"]
+  },
+  {
+    "id": 2,
+    "title": "Strategic Business Growth",
+    "cover": "https://picsum.photos/id/20/500/400",
+    "author": "John Smith",
+    "author_img": "https://picsum.photos/id/337/200/200",
+    "posted_date": "2025-03-18",
+    "reading_time": 8,
+    "hashtags": ["#business", "#strategy", "#growth"]
+  },
+  {
+    "id": 3,
+    "title": "Living a Healthy Lifestyle",
+    "cover": "https://picsum.photos/id/30/500/400",
+    "author": "Emily Johnson",
+    "author_img": "https://picsum.photos/id/437/200/200",
+    "posted_date": "2025-03-15",
+    "reading_time": 6,
+    "hashtags": ["#health", "#wellness", "#lifestyle"]
+  },
+  {
+    "id": 4,
+    "title": "Discoveries in Science and Education",
+    "cover": "https://picsum.photos/id/40/500/400",
+    "author": "Michael Brown",
+    "author_img": "https://picsum.photos/id/537/200/200",
+    "posted_date": "2025-03-10",
+    "reading_time": 10,
+    "hashtags": ["#science", "#discovery", "#education"]
+  },
+  {
+    "id": 5,
+    "title": "The Essence of Art and Design",
+    "cover": "https://picsum.photos/id/50/500/400",
+    "author": "Sophia Davis",
+    "author_img": "https://picsum.photos/id/637/200/200",
+    "posted_date": "2025-03-05",
+    "reading_time": 7,
+    "hashtags": ["#art", "#creativity", "#design"]
+  }
+]
   
